@@ -4,4 +4,10 @@ class StaticPageController < ApplicationController
         @nome = 'Claudio'
     end    
 
+    def sobre
+    end
+    
+    def contato
+    end    
+
 end
